@@ -1,7 +1,4 @@
 * LF radio OOK transmitter
-  :PROPERTIES:
-  :CUSTOM_ID: lf-radio-ook-transmitter
-  :END:
 
 This is a receiver I plan to use with my [[file:rx.org][receiver]]. The
 result should be an OOK tx/rx pair
@@ -23,9 +20,6 @@ Considerations:
   receiver posts should be updated to match it.
 
 ** Frequency
-   :PROPERTIES:
-   :CUSTOM_ID: frequency
-   :END:
 
 After having spent a long time thinking about this I came to the
 conclusion that I want a *30 Mhz* frequence if possible. This is so it
@@ -34,9 +28,6 @@ feasibility of this option should be checked with the crystal
 considerations below.
 
 ** Ten Minute Transmitter
-   :PROPERTIES:
-   :CUSTOM_ID: ten-minute-transmitter
-   :END:
 
 This is a nice design currently under evaluation.
 
