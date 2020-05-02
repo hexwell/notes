@@ -1,15 +1,6 @@
 * MFC Mifare Converter syntax
-  :PROPERTIES:
-  :CUSTOM_ID: mfc-mifare-converter-syntax
-  :END:
 
-mfc <input type: mfd|mct> <output type: mfd|mct|c|keys> [
-
-#+BEGIN_HTML
-  <output file>
-#+END_HTML
-
-] [-k] [-f] [-c{fill|skip}]
+mfc <input type: mfd|mct> <output type: mfd|mct|c|keys> [<output file>] [-k] [-f] [-c{fill|skip}]
 
 -k = Prompt for missing keys -f = Fill non contiguous regions with 0s
 
