@@ -1,7 +1,4 @@
 * Power supplies
-  :PROPERTIES:
-  :CUSTOM_ID: power-supplies
-  :END:
 
 Considerations: - Not buying, power supplies can be easily built. See:
 
