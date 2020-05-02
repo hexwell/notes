@@ -1,7 +1,4 @@
 * LF radio OOK receiver
-  :PROPERTIES:
-  :CUSTOM_ID: lf-radio-ook-receiver
-  :END:
 
 This is the receiver i plan to use with my [[file:tx.org][transmitter]]
 
@@ -15,9 +12,6 @@ The design might be inspired by:
 [[https://youtu.be/xgIL81VSKX4][youtube 2]]
 
 ** Notes on these designs
-   :PROPERTIES:
-   :CUSTOM_ID: notes-on-these-designs
-   :END:
 
 The circuit shown in "youtube 2" (ANT -||- N -|<- GND, N ->|- OUT -||-
 GND) is just a rectifier to harvest the maximum power out of RF
