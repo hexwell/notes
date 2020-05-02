@@ -3,7 +3,7 @@
   :CUSTOM_ID: lf-radio-ook-transmitter
   :END:
 
-This is a receiver I plan to use with my [[file:rx.md][receiver]]. The
+This is a receiver I plan to use with my [[file:rx.org][receiver]]. The
 result should be an OOK tx/rx pair
 
 Considerations:
