@@ -1,7 +1,4 @@
 * How to unbrick an Arduino Pro Micro
-  :PROPERTIES:
-  :CUSTOM_ID: how-to-unbrick-an-arduino-pro-micro
-  :END:
 
 Arduino Pro Micros can get bricked from time to time. To unbrick:
 
