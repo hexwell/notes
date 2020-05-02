@@ -8,8 +8,9 @@ This signal is produced by a ringing generator at the central office." -
 
 This information must be verified to be true in Italian systems as well.
 
-Considerations: - I need the components to build this project. When I
-have a successful design i might consider buying them
+Considerations:
+- I need the components to build this project. When I
+  have a successful design i might consider buying them
 
 - I also need a design for this project
 
