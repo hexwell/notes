@@ -1,7 +1,4 @@
 * Phone ringer
-  :PROPERTIES:
-  :CUSTOM_ID: phone-ringer
-  :END:
 
 "In landline telephones, bells or ringtones are rung by impressing a 60
 to 105-volt RMS 20-Hertz sine wave across the tip and ring conductors of
