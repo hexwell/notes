@@ -1,7 +1,4 @@
 * Soldering irons
-  :PROPERTIES:
-  :CUSTOM_ID: soldering-irons
-  :END:
 
 Considerations: - Not making this purchase yet, too expensive for too
 little gain. - Probably buying a rework station like the one at
