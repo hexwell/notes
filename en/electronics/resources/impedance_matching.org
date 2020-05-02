@@ -1,7 +1,4 @@
 * Impedance Matching
-  :PROPERTIES:
-  :CUSTOM_ID: impedance-matching
-  :END:
 
 A very nice physical demonstration of impedance mismatch/matching and
 reflected power is given by Steve Mould on YouTube
@@ -10,9 +7,6 @@ reflected power is given by Steve Mould on YouTube
 - [[https://youtu.be/AzZ7DjS4ti4][Here]]
 
 ** Mechanical analogy
-   :PROPERTIES:
-   :CUSTOM_ID: mechanical-analogy
-   :END:
 
 It's also nice to see that in the video impedance is matched using a
 lever, and the
@@ -21,9 +15,6 @@ analogy]] depict a *transformer*, that is often used to match impedance,
 as the equivalent of the *lever*.
 
 ** Also see
-   :PROPERTIES:
-   :CUSTOM_ID: also-see
-   :END:
 
 - [[https://youtu.be/vcSc16tnVqk][AppliedScience impedance matching
   explaination - YouTube]]
