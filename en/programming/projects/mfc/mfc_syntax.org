@@ -1,0 +1,21 @@
+* MFC Mifare Converter syntax
+  :PROPERTIES:
+  :CUSTOM_ID: mfc-mifare-converter-syntax
+  :END:
+
+mfc <input type: mfd|mct> <output type: mfd|mct|c|keys> [
+
+#+BEGIN_HTML
+  <output file>
+#+END_HTML
+
+] [-k] [-f] [-c{fill|skip}]
+
+-k = Prompt for missing keys -f = Fill non contiguous regions with 0s
+
+Messages: [ warning ] : Key {A|B} for sector {} not found. [ warning ] :
+{ last sector n != 15|63 } [ error ] : Input file contains not
+contiguous sectors. Use -f to convert anyways. [ error ] : Input file
+contains corrupted sectors. Use -c to chose behaviour.
+
+Prompts: Insert key (default: 000000000000) >
