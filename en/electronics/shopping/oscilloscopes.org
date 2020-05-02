@@ -1,7 +1,4 @@
 * Oscilloscopes
-  :PROPERTIES:
-  :CUSTOM_ID: oscilloscopes
-  :END:
 
 Considerations: - Oscilloscopes can reliably measure signals up to 1/5
 of their rated frequency
