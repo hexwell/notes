@@ -1,7 +1,4 @@
 * Problemi della scuola italiana:
-  :PROPERTIES:
-  :CUSTOM_ID: problemi-della-scuola-italiana
-  :END:
 
 - Un grave errore della scuola italiana (ma non solo) è quello di punire
   per i fallimenti, portando a sviluppare una paura verso di essi nella
