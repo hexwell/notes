@@ -1,7 +1,4 @@
 * Teleguide
-  :PROPERTIES:
-  :CUSTOM_ID: teleguide
-  :END:
 
 I would be nice to polish it up a bit and maybe publish it to the play
 store, but:
