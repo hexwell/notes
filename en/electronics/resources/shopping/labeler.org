@@ -1,7 +1,4 @@
 * Labeler
-  :PROPERTIES:
-  :CUSTOM_ID: labeler
-  :END:
 
 My main concern with a labeler is it's ability to print the omega symbol
 for resistors labels. Another concern raised by Andreas Spiess in
