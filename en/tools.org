@@ -1,21 +1,16 @@
 * Tools
-  :PROPERTIES:
-  :CUSTOM_ID: tools
-  :END:
 
 ** Editors & IDEs
-   :PROPERTIES:
-   :CUSTOM_ID: editors-ides
-   :END:
 
-Text editor: *Sublime Text 3* Python: *JetBrains PyCharm* / *Sublime
-Text 3* JVM: *JetBrains IntelliJ IDEA* Android: *JetBrains/Google
-Android Studio*
+Text editor: *Sublime Text 3*
+
+Python: *JetBrains PyCharm* / *Sublime Text 3*
+
+JVM: *JetBrains IntelliJ IDEA*
+
+Android: *JetBrains/Google Android Studio*
 
 ** Languages
-   :PROPERTIES:
-   :CUSTOM_ID: languages
-   :END:
 
 Languages in these section are sorted by marketability for marketable
 languages and by my willingness to learn them in the close future for
@@ -23,9 +18,6 @@ niche languages. If the reasons for using or learning a language are not
 obvious they are explicited in parenthesis.
 
 *** Used
-    :PROPERTIES:
-    :CUSTOM_ID: used
-    :END:
 
 Marketable:
 
@@ -44,9 +36,6 @@ Niche:
 - *Brainfuck* (hobby)
 
 *** Appealing
-    :PROPERTIES:
-    :CUSTOM_ID: appealing
-    :END:
 
 Marketable:
 
@@ -71,14 +60,8 @@ Niche:
 - *Coq* (functional, dependent types, calculus of constructions)
 
 ** Hacking
-   :PROPERTIES:
-   :CUSTOM_ID: hacking
-   :END:
 
 *** Software
-    :PROPERTIES:
-    :CUSTOM_ID: software
-    :END:
 
 - [[https://dnsdumpster.com/][*dnsdumpster*]] - dns recon
 - [[http://whois.domaintools.com/][*Domaintools WHOIS*]] - WHOIS
@@ -89,9 +72,6 @@ Niche:
 - *mimikatz* - Windows exploitation
 
 **** Reversing
-     :PROPERTIES:
-     :CUSTOM_ID: reversing
-     :END:
 
 - *Ghidra* - reverse engineering suite
 - *pwntools* - python reverse engineering lib
@@ -99,33 +79,22 @@ Niche:
 - *Angr* - binary analysis
 
 **** NFC
-     :PROPERTIES:
-     :CUSTOM_ID: nfc
-     :END:
 
 - *libnfc_crypto1_crack* - hardnested attack using ACR122U or pn532
 - *mfkey32v2* - key recovery from sniffed trace
 
+
 - *rtl_433* - 433 MHz and more protocol decoder-
 
 *** Hardware
-    :PROPERTIES:
-    :CUSTOM_ID: hardware
-    :END:
 
 **** NFC
-     :PROPERTIES:
-     :CUSTOM_ID: nfc-1
-     :END:
 
 - *Scribe* - NFC development board
-
 - *ACR122U* - NFC USB interface
-
 - *pn532* - NFC UART interface
-
 - *Proxmark3* - NFC swiss knife
-
 - *ChameleonMini* - NFC emulator
+
 
 - *rtl-sdr* - 27 MHz - 1800 MHz receiver
