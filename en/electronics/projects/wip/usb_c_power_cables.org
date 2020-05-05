@@ -1,0 +1,26 @@
+* Power meter
+
+Using cheap USB PD sinks from AliExpress it is possible to create power
+cords for lot of old appliances that use a barrel jack connector.
+
+I plan on making:
+
+- A modified 9 V battery with USB C on the bottom to use with component
+  tester.
+- A USB-C to 9 V barrel jack cable (negative inside) to power labeler
+
+I ordered 3 sinks. 2 fixed 9 V sinks, and a variable one. For both of
+these projects I plan to use the fixed modules.
+
+** Battery
+
+I already have the battery tore down. When I receive the USB sink I can
+proceed to assemble the final product. Hot glue should be fine for
+structure. Two wires will then connect the sink to the battery terminals.
+
+** Cable
+
+I plan to recycle the barrel jack to 9 V battery adapter I have. Probably
+the whole thing can be made by just cutting the adapter and soldering the
+wires of the barrel jack directly on the sink board, sealing everything
+with heat shrink tube
