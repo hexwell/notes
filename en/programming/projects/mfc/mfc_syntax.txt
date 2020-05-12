@@ -1,0 +1,22 @@
+MFC - MiFare classic Converter syntax
+
+Input:
+
+MCT: - In case of sectors or keys missing, give warning and fill with 0s (fill happens at an intermediate stage, inner 
+       representation should not be filled)
+     - Accept only 1k (check last sector number and sector dimension)
+
+MFD: - Accept only 1k (check file size)
+
+  *: - Check UID
+
+-s / --strict argument: fail on missing data
+
+Output:
+
+  C: - No support for continuity, export as MFD would (so we add an intermediate fill stage)
+
+Final syntax:
+
+mfc <input format: mfd|mct> <output format: mfd|mct|c|keys> <input filename> [output filename] [-s]
+
