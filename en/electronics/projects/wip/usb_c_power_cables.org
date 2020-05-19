@@ -12,7 +12,7 @@ I plan on:
   - My Brother PTOUCH labeler
   - Using a PD Trigger in order to supply my TS-80 soldering iron with sufficient power from a USB PD source instead of the Quickcharge 3.0 that it uses
 
-I ordered 4 sinks. 2 fixed 9 V sinks, a variable one with screw terminal blocks and a variable one with a USB A port. For the first two projects I plan to use the fixed modules, for the TS-80 I plan to use the USB A one with a standard USB A to USB C cable.
+I ordered 5 sinks. 3 fixed 9 V sinks, a variable one with screw terminal blocks and a variable one with a USB A port. For the first two projects I plan to use the fixed modules, for the TS-80 I plan to use the USB A one with a standard USB A to USB C cable.
 
 ** Battery
 
