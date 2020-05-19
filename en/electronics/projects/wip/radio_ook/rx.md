@@ -1,7 +1,7 @@
 LF radio OOK receiver
 =====================
 
-This is the receiver i plan to use with my [transmitter](tx.org)
+This is the receiver i plan to use with my [transmitter](tx.md)
 
 As soon as the transmitter frequency is determined I should be able to
 build this receiver.
