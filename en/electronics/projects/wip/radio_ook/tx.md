@@ -1,7 +1,7 @@
 LF radio OOK transmitter
 ========================
 
-This is a receiver I plan to use with my [receiver](rx.org). The result
+This is a receiver I plan to use with my [receiver](rx.md). The result
 should be an OOK tx/rx pair
 
 Considerations:
