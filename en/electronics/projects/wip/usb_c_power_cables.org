@@ -1,4 +1,4 @@
-* USB C Power Cables
+* USB C PD All The Things!
 
 Using cheap USB PD sinks from AliExpress it is possible to add USB C
 to a lot of old appliances. I plan to add it by cutting a hole in the chassis of the device at hand and using hot glue to secure the board in the device
