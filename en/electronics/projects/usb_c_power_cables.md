@@ -3,7 +3,7 @@
 Using cheap USB PD sinks from AliExpress it is possible to add USB C to a lot of old appliances. I plan to add it by cutting a hole in the chassis of the device at hand and using hot glue to secure the board in the device
 
 I plan on adding a USB C connector to:
-- My Brother PTOUCH labeler
+- My Brother PTOUCH labeler: **warning** use the 9V cable and make an adapter, no chassis modifications. The adapter can be stored in the battery compartment
 - Using a PD Trigger in order to supply my TS-80 soldering iron with sufficient power from a USB PD source instead of the Quickcharge 3.0 that it uses
 
 I ordered a fixed 9 V sink and a variable one with a USB A port. For the first project I plan to use the fixed module, for the TS-80 I plan to use the USB A one with a standard USB A to USB C cable. It would be probably nice to isolate the latter sink that I plan to handle and keep out of enclosure with heat shrink tube.
@@ -35,16 +35,17 @@ The first statement is particularly of interest for this variety, as they cannot
 
 - For devices using 9V batteries, usb chargeable ones can be easily purchased on the internet solving the problem completely with an off the shelf solution.
 - For devices using stick battery further investigation is needed. (Usb chargeable stick batteries are available but charging them would be unconvenient as for some devices up to 6 usb ports and cables would be needed)
+- Devices that accept DC inputs double as PS devices. It may or may not be desirable to still do the battery hack
 
 #### Second case
 
 These devices need, depending on the level of effort one's willing to put into this, one of two things:
 - A complete battery replacement by another one featuring an integrated usb charger. The DC input option from PS Devices might apply here as well
-- A modification of the charger to add USB PD as a power supply
+- A modification of the charger to add USB PD as a power supply, this would be a PS device
 
 ### PS Devices
 
-These devices just need to be modified to have their power supplied by USB PD instead of their wall adaptor.
+These devices just need to be modified to be able to have their power supplied by USB PD, as well as from their own wall adaptor.
 
 #### DC input
 
