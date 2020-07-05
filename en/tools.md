@@ -42,8 +42,8 @@ Niche:
 
 Marketable:
 
--   **C++** (powerful, flexible, extremely marketable)
--   **Haskell** (fun, functional, popular)
+-   **C++** (powerful, flexible, extremely marketable) (I have some knowledge from Effective C++ Third Edition by Scott Meyers, given to me by F. Fuga. This knowledge tho requires updating to C++11, C++17 and C++20 as that book was written before all of these versions)
+-   **Haskell** (\[fun]ctional, popular)
 -   **Rust** (modern take on low level stuff, becoming popular) (use
     [rust-your-own-lisp](https://dev.to/deciduously/rust-your-own-lisp-50an)
     for starting)
