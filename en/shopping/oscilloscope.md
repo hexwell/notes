@@ -21,6 +21,11 @@ The offerings from the following brands have been considered:
 - Rohde & Schwarz
 - Teledyne LeCroy
 
+**11/20 update:**
+
+I discovered Yokogawa as a brand of oscilloscopes. I do not integrate this rundown
+with them as they are very very expensive.
+
 ## Siglent
 
 Siglent's design and mission (with their low cost entry hardware) are good.
