@@ -77,6 +77,8 @@ Hacking
 
 -   [**IP stresser**](https://www.ipstresser.com/) - DDoS
 
+- [**VirusTotal**](www.virustotal.com) - virus scanner
+
 -   **mimikatz** - Windows exploitation
 
 1.  Reversing
