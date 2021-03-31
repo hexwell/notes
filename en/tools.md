@@ -1,8 +1,6 @@
-Tools
-=====
+# Tools
 
-Editors & IDEs
---------------
+## Editors & IDEs
 
 Text editor: **Sublime Text 3**
 
@@ -12,8 +10,7 @@ JVM: **JetBrains IntelliJ IDEA**
 
 Android: **JetBrains/Google Android Studio**
 
-Languages
----------
+## Languages
 
 Languages in these section are sorted by marketability for marketable
 languages and by my willingness to learn them in the close future for
@@ -88,20 +85,18 @@ Hacking
     -   **Radare2** - reverse engineering suite
     -   **Angr** - binary analysis
 
-2.  NFC
+2.  NFC/RFID
 
-    -   **libnfc~crypto1crack~** - hardnested attack using ACR122U or
-        pn532
+    -   **libnfc-crypto1crack** - hardnested attack using ACR122U or pn532
     -   **mfkey32v2** - key recovery from sniffed trace
 
-    ```{=html}
-    <!-- -->
-    ```
-    -   **rtl~433~** - 433 MHz and more protocol decoder-
+    <br>
+    
+-   **rtl_433** - 433 MHz and more protocol decoder-
 
 ### Hardware
 
-1.  NFC
+1.  NFC/RFID
 
     -   **Scribe** - NFC development board
     -   **ACR122U** - NFC USB interface
@@ -109,7 +104,12 @@ Hacking
     -   **Proxmark3** - NFC swiss knife
     -   **ChameleonMini** - NFC emulator
 
-    ```{=html}
-    <!-- -->
-    ```
-    -   **rtl-sdr** - 27 MHz - 1800 MHz receiver
+    <br>
+    
+-   **rtl-sdr** - 27 MHz - 1800 MHz receiver
+
+
+## Disks and Data recovery
+
+- HDDLLF - Windows disk formatter
+- CgSecurity TestDisk - Disk testing and data recovery
