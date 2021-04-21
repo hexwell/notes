@@ -1,6 +1,6 @@
 # Personal Electric Vehicles 
 
-## Relevant types
+## Relevant Types
 
 - Electric Bicycle
 - Electric Car
@@ -28,8 +28,8 @@ These devices share some common issues, in particular:
 - Inability to withstand harshness of the road or riding surface. Any destabilizing feature will result in abrupt braking
   due to the way the throttle and brakes are controlled (gyroscope), but being the board at ground level (and thus the
   braking happening at ground level) with only the legs and muscle power of the user to convey the deceleration to the
-  majority of the mass of the moving body, this will ofter result in the user's body being catapulted by inertia on the
-  road ahead.
+  majority of the mass of the moving body, this will often result in the user being catapulted by inertia on the road
+  ahead.
 
 
 ### Small-Wheeled Devices
@@ -41,11 +41,11 @@ Devices included in this cathegory are:
 
 These devices share some common issues, in particular:
 
-- The size of the potholes and harshness that a vehicle can tackle is directly related to the size of the wheels. Devices
+- The size of the potholes and harshness that a vehicle can tackle is directly related to the size of its wheels. Devices
   with small wheels are really unfit to any surface that is not considerably smooth. This makes them not suitable for daily use.
 
 
-## Devices rundown
+## Devices Rundown
 
 In this section the features that are specific to each device are highlighted.
 
@@ -90,7 +90,7 @@ Pros:
 
 Cons:
 - Too slow to charge compared to ICE motorcycles
-- Ability to run "manually" on leg power
+- Not able to run "manually" on leg power
 
 
 ### Self-Balancing Electric Board
