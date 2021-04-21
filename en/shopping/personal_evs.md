@@ -95,8 +95,8 @@ Cons:
 
 ### Self-Balancing Electric Board
 
-Although this suffers from the self-balancing devices illnesses, and is unsuited for road use, it is very fun to use indoor.
-
+Although this suffers from the self-balancing devices illnesses, and is unsuited for road use, it is very fun to use indoor,
+where its agility is greatly appreciated.
 
 ### Self-Balancing Electric Single Wheel Board
 
