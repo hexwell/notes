@@ -1,0 +1,12 @@
+- Nutrients
+	- Micronutrients (mg/day)
+		- Vitamins
+		- Minerals
+
+	- Macronutrients (g/day) (these constitute calories intake)
+		- Carbs (45-65 % of daily cals) (4 kcal/g)
+			- Sugars
+		- Fats (20 - 35 % of daily cals) (9 kcal/g)
+		- Proteins (10 - 35 % of daily cals) (4 kcal/g)
+
++ 3-3.7 lt of water
