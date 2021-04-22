@@ -29,7 +29,8 @@ These devices share some common issues, in particular:
   due to the way the throttle and brakes are controlled (gyroscope), but being the board at ground level (and thus the
   braking happening at ground level) with only the legs and muscle power of the user to convey the deceleration to the
   majority of the mass of the moving body, this will often result in the user being catapulted by inertia on the road
-  ahead.
+  ahead. Most self balancing devices lack this way for the user to dissipate inertia and transfer momentum to the ground,
+  but this can be mitigated with user skill.
 
 
 ### Small-Wheeled Devices
@@ -96,7 +97,8 @@ Cons:
 ### Self-Balancing Electric Board
 
 Although this suffers from the self-balancing devices illnesses, and is unsuited for road use, it is very fun to use indoor,
-where its agility is greatly appreciated.
+where its agility is greatly appreciated. The way they are controlled is quite natural and it feels like an extension of the body,
+as every good technology/tool should.
 
 ### Self-Balancing Electric Single Wheel Board
 
