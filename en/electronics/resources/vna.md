@@ -26,3 +26,8 @@ The facts about the Smith Chart are:
 ## VNA vs Spectrum Analyzer
 
 A VNA measures amplitude and phase, a spectrum analyzer only measures amplitude.
+
+
+## Links
+
+https://www.youtube.com/watch?v=_pjcEKQY_Tk
