@@ -23,6 +23,11 @@ The facts about the Smith Chart are:
 - lower part - capacitive load
 
 
+## S-Parameter
+
+The S21 measurement is, in my understanding, the same thing as the frequency response of the DUT.
+
+
 ## VNA vs Spectrum Analyzer
 
 A VNA measures amplitude and phase, a spectrum analyzer only measures amplitude.
