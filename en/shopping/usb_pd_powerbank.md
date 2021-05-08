@@ -1,12 +1,15 @@
-# Powerbank USB PD
+# USB PD Powerbank
 
-Un powerbank USB PD deve avere:
+A USB PD Powerbank should have these characteristics:
 
-- Quanto più compatto possibile
-- Quante più porte USB C possibile (idealmente: 2+)
-- Quante più delle sopracitate porte bidirezionali possibile
-- Quante meno porte Micro USB o altro (escluso USB A) possibile (idealmente: 0)
-- Con quanti più voltaggi possibile (idealmente: 5, 9, 12, 15, 20)
-- Con quanti più watt possibile in ingresso e uscita
-- Supportare il passthrough
-- Idealmente supportare diversi profili attivi contemporaneamente su diverse porte
+- As compact as possible
+- As much USB C ports as possible (ideally: 2+)
+- As much of the USB C ports as possible should be bidirectional
+- One USB A output port
+- Possibly one micro USB input port
+- Possibly a DC input
+- No proprietary standards ports
+- Support as much USB PD voltages as possible (ideally: 5V, 9V, 12V, 15V, 20V)
+- As much input/output wattage as possible
+- Support passthrough
+- Ideally support different USB PD profiles active at the same time on different ports
