@@ -13,13 +13,15 @@ There are two kinds of bench power supplies designs:
 
 Target:
 Lab bench power supply, with these features:
-- Linear
+- Linear design
 - SCP (Short Circuit Protection)
+- C.V. (Constant Voltage)
+- C.C. (Constant Current)
 
 And possibly:
 - OVP (Over Voltage Protection)
 - OCP (Over Current Protection)-
-- OTP (Over Temperature Protection).
+- OTP (Over Temperature Protection)
 
 ## Models
 
