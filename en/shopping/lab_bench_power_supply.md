@@ -26,7 +26,8 @@ And possibly:
 ### Siglent SPD3303X-E
 
 Pros:
-- Very good interface and software support
+- Very good interface
+- Very good software support
 - Very low noise
 - 3 CH
 
