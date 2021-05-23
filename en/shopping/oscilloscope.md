@@ -38,6 +38,7 @@ Series offering target oscilloscopes:
 - SDS1000X-E
 - SDS1000X+ (a bit expensive, old button layout, not really interested in the generator without FRA)
 - SDS2000X-E (a bit expensive, not interested in more sample rate and memory)
+- SDS1000X-U (cheaper variant of SDS1000X-E without logic analizer capabilities and fancy features)
 
 Models considered:
 
