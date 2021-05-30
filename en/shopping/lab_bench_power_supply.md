@@ -23,6 +23,16 @@ And possibly:
 - OCP (Over Current Protection)-
 - OTP (Over Temperature Protection)
 
+## Brands
+
+- Keysight
+- Keithley
+- Siglent
+- Korad
+- Rigol
+- GW Instek
+- Rohde & Schwarz
+
 ## Models
 
 ### Siglent SPD3303X-E
@@ -32,12 +42,13 @@ Pros:
 - Very good software support
 - Very low noise
 - 3 CH
+- OCP added in latest firmware (30/05/2021)
+- Has knob
 
 Cons:
 - No OVP
-- No OCP
+- ~~No OCP~~
 - No OTP
-- Has buttons instead of knobs
 - Expensive
 
 EEVBlog review (warning: not this exact model!):
@@ -52,7 +63,8 @@ Pros:
 
 - Cheap
 - Has knob
-- Has protection features
+- OVP
+- OCP
 
 Cons:
 
