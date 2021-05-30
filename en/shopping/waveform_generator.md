@@ -11,6 +11,18 @@ I think  30 MHz will suffice for me for the following reasons:
 
 - FRA = Frequency Response Analysis, used interchangeably with Bode Plot
 
+## Brands
+
+- Keysight (very expensive)
+- UNI-T (too expensive for the brand, interface not great, UTG962E is kinda cool tho)
+- Rigol (too expensive for the brand, interface & design not great)
+- Siglent
+- Tektronix (very expensive)
+- Rhode & Schwarz (extremely expensive & above spec)
+- Teledyne LeCroy (lower end products are Siglent rebrands)
+- OWON (too expensive for brand, low quality)
+- GW Instek
+
 ## Models
 
 ### Siglent SDG1032X
